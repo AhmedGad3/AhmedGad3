@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating scalable APIs and solving backend challenges since 2023 <br>
+✨ Creating scalable APIs and solving backend challenges  <br>
 📚 I'm currently learning advanced GraphQL, microservices, and deployment strategies <br>
 🎯 Goals: Contribute to impactful projects and grow into a professional back-end engineer in multinational teams <br>
 🎲 Fun fact: I started my career in a completely different field (Agricultural Engineering) but found my passion in backend development
@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="28" alt="mongoose badge"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="28" alt="stripe badge"  />
-  <img width="12" />
+  <img width
+="12" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="28" alt="websocket badge"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
